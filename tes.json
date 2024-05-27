@@ -1,0 +1,12 @@
+[
+            {
+                "server1": "https://example1.com"
+            },
+            {
+                "server2": "https://example2.com"
+            },
+            {
+                "server3": "https://example3.com"
+            }
+            // Anda dapat menambahkan server lebih banyak lagi di sini
+        ]
